@@ -3,12 +3,15 @@ Desarrollador de Software Junior | Estilo Hacker Mode ON
 <div align="center">
 
 🟣 Escribo código, lo daño, lo arreglo… y lo vuelvo a mejorar.
+
 ⚡ Fan del dark mode, la eficiencia y aprender cosas nuevas todos los días.
 
 </div>
 🚀 Sobre mí
 
+
 Soy un desarrollador en formación apasionado por crear soluciones tecnológicas con estilo y buen rendimiento. Me gusta el backend, el frontend y aprender herramientas que me permitan mejorar como dev.
+
 
 🔥 Estilo de trabajo: dark mode, clean code, enfoque hacker
 
