@@ -1,5 +1,5 @@
 🐱‍💻 Hola, soy Daniel Duran
-Desarrollador de Software Junior | Estilo Hacker Mode ON
+Desarrollador de Software Junior |
 <div align="center">
 
 🟣 Escribo código, lo daño, lo arreglo… y lo vuelvo a mejorar.
