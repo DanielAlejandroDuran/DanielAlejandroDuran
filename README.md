@@ -9,6 +9,7 @@ Desarrollador de Software Junior | Estilo Hacker Mode ON
 </div>
 🚀 Sobre mí
 
+<br>
 
 Soy un desarrollador en formación apasionado por crear soluciones tecnológicas con estilo y buen rendimiento. Me gusta el backend, el frontend y aprender herramientas que me permitan mejorar como dev.
 
